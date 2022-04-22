@@ -21,9 +21,10 @@ window.onload = function() {
     'I\'m Linkstart',
     'I design and code things on the web',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="Contact me :hello@gmail.com">hello@outlook.com</a>',
-    '<a target="_blank" href="https://github.com/LinkstartUi/LinkstartUi.github.io">Discord.com/Linkstart</a><br><a target="_blank" href="https://github.com/LinkstartUi/LinkstartUi.github.io">codepen.io/Linkstart</a><br><a target="_blank" href="https://github.com/LinkstartUi/LinkstartUi.github.io">github.com/Linkstart</a>',
-    'My Projects:',
-    'Weather Forecast: <a target="_blank" href="https://codepen.io/Linkstart/pen/vYpBxOr"> CodePen',
+    '<a target="_blank" href="https://linkstartui.github.io/Cv-Terminal/">Cv.com/Linkstart</a><br><a target="_blank" href="https://linkstartui.github.io/PORTFOLIO-LINKSTART/">Portfol.io/Linkstart</a><br><a target="_blank" href="https://github.com/LinkstartUi">Github.com/Linkstart</a>',
+    'My Project:',
+    'Weather Forecast: <a target="_blank" href="https://linkstartui.github.io/Weather-forecast/"> MétéoFrance.fr/Linkstart</a>',
+
     getCurrentTime(),
     '👀 Link.🦖',
   ]
